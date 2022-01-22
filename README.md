@@ -11,6 +11,15 @@ a Junior Full Stack Developer with a background in Communication Design and year
 
 ---
 
+<style>
+mark{
+    color:red;
+}
+</style>
+
+<mark>what is DataBase</mark>
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
