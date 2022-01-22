@@ -1,12 +1,11 @@
 ### Hi there, I am Anna
 
-**a Junior Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. I recently found my passion for programming and am eager to get to know the work flow of a modern tech business.
+##a Junior Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. I recently found my passion for programming and am eager to get to know the work flow of a modern tech business.
 
-I am currently...
-
-	•	working on a website for Salih Balta
-	•	expanding my React skills
-	•	volunteering for KOP Berlin
+##I am currently...
+- working on a website for Salih Balta
+- expanding my React skills
+- volunteering for KOP Berlin
 
 <!--
 **ameirs/ameirs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
