@@ -10,14 +10,6 @@ a Junior Full Stack Developer with a background in Communication Design and year
 
 ---
 
-### Connect with me:
-
-[<img align="left" alt="ameirs | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="ameirs | Behance" width="22px" src="https://img.icons8.com/color-glass/64/000000/behance.png" />][behance]
-[<img align="left" alt="ameirs | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -34,7 +26,12 @@ a Junior Full Stack Developer with a background in Communication Design and year
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 <br />
-<br />
+
+### Connect with me:
+
+[<img align="left" alt="ameirs | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="ameirs | Behance" width="22px" src="https://img.icons8.com/color-glass/64/000000/behance.png" />][behance]
+[<img align="left" alt="ameirs | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
 
 
 [instagram]: https://www.instagram.com/soco.graphics/?utm_medium=copy_link
