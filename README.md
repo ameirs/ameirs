@@ -7,7 +7,6 @@ a Junior Full Stack Developer with a background in Communication Design and year
 - I’m currently working on a website for Salih Balta
 - I'm expanding my React skills
 - I volunteer for KOP Berlin
-- I love to draw 
 
 ---
 
