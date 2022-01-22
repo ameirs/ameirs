@@ -21,12 +21,12 @@ a Junior Full Stack Developer with a background in Communication Design and year
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][instagram]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][instagram]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][instagram]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][instagram]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />][instagram]
-[<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />][instagram]
+[<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />][node]
 [<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/sql.png" />][instagram]
 [<img align="left" alt="PostgresQl" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][instagram]
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][instagram]
@@ -36,6 +36,19 @@ a Junior Full Stack Developer with a background in Communication Design and year
 <br />
 <br />
 
+
 [instagram]: https://www.instagram.com/soco.graphics/?utm_medium=copy_link
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [behance]: linkedin.com/in/anna-meïra-greunig-864775222
+
+[html]: https://html5.org/
+[node]: https://nodejs.org/en/
+[css]: https://www.w3.org/Style/CSS/Overview.en.html
+[javascript]: https://www.javascript.com/
+[react]: https://reactjs.org/
+[redux]: https://redux.js.org/
+[sql]: https://www.w3schools.com/sql/sql_intro.asp
+[postgres]: https://www.postgresql.org/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[vscode]: https://code.visualstudio.com/
