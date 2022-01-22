@@ -14,8 +14,7 @@ a Junior Full Stack Developer with a background in Communication Design and year
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Behance" width="22px" src="https://img.icons8.com/color-glass/64/000000/behance.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin-circled--v1.png
-" />][behance]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][behance]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" />][instagram]
 
 <br />
