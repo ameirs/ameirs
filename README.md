@@ -28,6 +28,7 @@ a Junior Full Stack Developer with a background in Communication Design and year
 [<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />][node]
 [<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/sql.png" />][sql]
 [<img align="left" alt="PostgresQl" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][postgres]
+[<img align="left" alt="Jest" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color-glass/48/000000/github.png" />][github]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
