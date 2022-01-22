@@ -12,9 +12,9 @@ a Junior Full Stack Developer with a background in Communication Design and year
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Behance" width="22px" src="https://img.icons8.com/color-glass/64/000000/behance.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][behance]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
+[<img align="left" alt="ameirs | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="ameirs | Behance" width="22px" src="https://img.icons8.com/color-glass/64/000000/behance.png" />][behance]
+[<img align="left" alt="ameirs | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
 
 <br />
 
@@ -37,8 +37,8 @@ a Junior Full Stack Developer with a background in Communication Design and year
 
 
 [instagram]: https://www.instagram.com/soco.graphics/?utm_medium=copy_link
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[behance]: linkedin.com/in/anna-meïra-greunig-864775222
+[linkedin]: linkedin.com/in/anna-meïra-greunig-864775222
+[behance]: https://www.behance.net/annameragreunig
 
 [html]: https://html5.org/
 [node]: https://nodejs.org/en/
