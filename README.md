@@ -2,6 +2,8 @@
 
 ## Hi I'm Anna,
 
+a Junior Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. I recently found my passion for programming and am eager to get to know the work flow of a modern tech business.
+
 - I’m currently working on a website for Salih Balta
 - I'm expanding my React skills
 - I volunteer for KOP Berlin
