@@ -38,7 +38,7 @@ a Junior Full Stack Developer with a background in Communication Design and year
 
 
 [instagram]: https://www.instagram.com/soco.graphics/?utm_medium=copy_link
-[linkedin]: linkedin.com/in/anna-meïra-greunig-864775222
+[linkedin]: https://www.linkedin.com/in/anna-me%C3%AFra-greunig-864775222/
 [behance]: https://www.behance.net/annameragreunig
 
 [html]: https://html5.org/
