@@ -21,7 +21,6 @@ a Junior Full Stack Developer with a background in Communication Design and year
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][instagram]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][instagram]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][instagram]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][instagram]
@@ -32,6 +31,7 @@ a Junior Full Stack Developer with a background in Communication Design and year
 [<img align="left" alt="PostgresQl" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][instagram]
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][instagram]
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color-glass/48/000000/github.png" />][instagram]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][instagram]
 
 <br />
 <br />
