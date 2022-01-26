@@ -4,7 +4,7 @@
 
 a Junior Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. I recently found my passion for programming and am eager to get to know the workflow of a modern tech business.
 
-- currently working on a website for [Salih Balta][salih]
+- currently working on a website for [Salih Balta][salih] --> not this one ;)
 - expanding my React skills
 - volunteering for [KOP Berlin][kop]
 
