@@ -4,9 +4,7 @@
 
 a Junior Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. I recently found my passion for programming and am eager to get to know the workflow of a modern tech business.
 
-- currently working on a website for [Salih Balta][salih] --> not this one ;)
-- expanding my React skills
-- volunteering for [KOP Berlin][kop]
+currently working at [2zero][2zero]
 
 ---
 
@@ -35,6 +33,7 @@ a Junior Full Stack Developer with a background in Communication Design and year
 
 [salih]: http://artandist.com/project/2793/
 [kop]: https://kop-berlin.de/
+[2zero]: https://www.2zero.earth/
 
 [instagram]: https://www.instagram.com/soco.graphics/?utm_medium=copy_link
 [linkedin]: https://www.linkedin.com/in/anna-me%C3%AFra-greunig-864775222/
