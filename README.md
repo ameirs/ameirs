@@ -2,7 +2,7 @@
 
 # Hi I'm Anna,
 
-a Junior Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. I recently found my passion for programming and am eager to get to know the workflow of a modern tech business.
+I am a Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. 
 
 currently working at [2zero][2zero]
 
