@@ -1,6 +1,6 @@
 
 
-# Hi I'm Anni,
+# Hi,
 
 I am a Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. 
 
