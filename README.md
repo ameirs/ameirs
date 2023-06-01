@@ -1,8 +1,6 @@
 
 
-# Hi,
-
-I am a Full Stack Developer with a background in Communication Design and years of professional experience in the film industry. 
+# Hi, I am a Full Stack Developer with a background in Web Design. 
 
 currently working at [2zero][2zero]
 
